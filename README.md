@@ -1,4 +1,4 @@
-Code is adapted from the fair-seq library - specifically the speech_to_text_joint_to_text example in /examples. 
+Code is adapted from the fair-seq library https://github.com/facebookresearch/fairseq - specifically the speech_to_text_joint_to_text example in /examples. 
 
 pre-training_mine.md in /examples/speech_to_text_joint_to_text/docs has instructions on how to prepare the data and run the code including our adaptations. There are several other adaptations throughout the /fairseq library all adapted files end in _mine.py. Note that the --task, --criterion and --arch (architecture) options in pre-training.md all end in _mine also. 
 
